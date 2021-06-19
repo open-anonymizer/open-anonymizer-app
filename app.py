@@ -325,7 +325,7 @@ text-align: center;
 </style>
 <div class="footer">
 <p>Developed by <a href="mailto:dimiepp@gmail.com" target="_blank">Dimitri Epp</a> and <a href="mailto:Markus.Nutz@gmx.de" target="_blank">Markus Nutz</a> (2021)
-<br>More about this <a href="https://github.com/markusntz/openanonymizer/" target="_blank">Project</a>.  Full code on <a href="https://github.com/markusntz/openanonymizer/">  <img alt="github" src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg"></a></p>
+<br>More about this <a href="https://github.com/open-anonymizer/" target="_blank">Project</a>.  Full code on <a href="https://github.com/open-anonymizer/">  <img alt="github" src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg"></a></p>
 </div>
 """
 
