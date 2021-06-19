@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "open-anonymizer-app"
+version = "0.1.0"
+description = "Application for anonymizing texts via graphical interface"
+authors = ["Markus Nutz <markus.nutz@gmx.de>", "Dimitri Epp <dimiepp@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7.1"
+streamlit = "^0.80.0"
+requests = "^2.25.1"
+htbuilder = "^0.3.0"
+watchdog = "^2.0.1"
+transformers = "^4.5.1"
+torch = "^1.8.1"
+xlrd = "^2.0.1"
+openpyxl = "^3.0.7"
+pandas = "^1.2.4"
+
+[tool.poetry.dev-dependencies]
+isort = "^5.8.0"
+black = "^21.5b1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
