@@ -2,7 +2,8 @@
 
 Open Anonymizer is a natural language processing software that anonymizes German texts. Open Anonymizer uses a XLM-RoBERTa model for anonymizing `persons/names`, `locations`, `organizations` and a rule-based approach for anonymizing `dates`, `phone numbers`, `other numbers` and `emails`.
 
-We also offer a graphical interface that you can see and start as described below. You can try the web-application via https://openanonymizer.codes/.
+We also offer a graphical interface that you can see and start as described below. 
+You can try the web-application via https://openanonymizer.codes/.
 
 ---
 
